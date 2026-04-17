@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Domenica</h1>
-<h3 align="center">A passionate frontend developer from Ecuador, but with knowledge for backend development as well.</h3>
-
-- 🔭 I’m currently working on **Inova Solutions, where I can apply my knowledge to create innovative solutions for our clients.**
+<h3 align="center">A passionate developer from Ecuador.</h3>
 
 - 👯 I’m looking to collaborate on **people who have a high drive to learn and continue to improve themselves.**
 
